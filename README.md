@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/ingvarr6/Github-explorer.svg?branch=master)](https://travis-ci.org/ingvarr6/Github-explorer)
 
 # Github explorer
  
