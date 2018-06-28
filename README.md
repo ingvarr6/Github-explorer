@@ -2,6 +2,7 @@
 ![mockuper](https://user-images.githubusercontent.com/7270929/42031594-7c218c64-7adf-11e8-9d5f-4bc3fec20eab.jpg)
 
 [![Build Status](https://travis-ci.org/ingvarr6/Github-explorer.svg?branch=master)](https://travis-ci.org/ingvarr6/Github-explorer)
+![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 # Github explorer
  
