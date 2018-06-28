@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/ingvarr6/Github-explorer.svg?branch=master)](https://travis-ci.org/ingvarr6/Github-explorer)
 
+![mockuper](https://user-images.githubusercontent.com/7270929/42031594-7c218c64-7adf-11e8-9d5f-4bc3fec20eab.jpg)
+
 # Github explorer
  
 Mobile application for Android and iOS developed on the React Native. Allows you to view trends and topics of the Github
