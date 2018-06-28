@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Github-explorer",
+    "description": "Viewing trends of github, topics and saving in bookmarks",
+    "version": "1.0.0",
+    "slug": "Github-explorer",
+    "privacy": "public",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/react-navigation.png",
+    "loading": {
+      "icon": "./assets/icons/react-navigation.png",
+      "hideExponentText": false
+    },
+    "sdkVersion": "27.0.0",
+    "entryPoint": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "android": {
+      "package": "tk.ingvarr6.githubexplorer",
+      "permissions": []
+    },
+    "ios": {
+      "bundleIdentifier": "tk.ingvarr6.githubexplorer",
+      "supportsTablet": true
+    }
+  }
+}
